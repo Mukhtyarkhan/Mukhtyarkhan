@@ -2,7 +2,7 @@
 
 # مرحباً — I'm Mukhtyar Khan 👋
 
-### Full Stack Developer · Django · React.js · LangChain .LLM intgrations · AI Systems
+### Full Stack Developer · Django · React.js · LangChain .LLM integrations · AI Systems
 
 **Building AI-powered web products that serve real users at scale**
 
